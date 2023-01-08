@@ -1,0 +1,19 @@
+id: A53664B7B
+title: 'Gentle Splendour: Praises to the Great Abbot Śāntarakṣita'
+type: translation
+pechas:
+- ICCC4D4EC
+- I60030662
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:09:49.822687
+  last_modified_at: 2023-01-04 13:09:49.822692
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ICCC4D4EC/74D6: '5323'
+  I60030662/45E1: '5323'
